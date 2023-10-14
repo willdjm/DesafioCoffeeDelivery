@@ -1,5 +1,4 @@
 {
-  "homepage": "https://willdjm.github.io/DesafioCoffeDelivery",
   "name": "coffeedelivery",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "lint": "eslint src --ext .ts,.tsx",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d dist"
+    "lint": "eslint src --ext .ts,.tsx"
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.11",
