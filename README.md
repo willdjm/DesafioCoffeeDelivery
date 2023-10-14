@@ -17,10 +17,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Immer
 - Vite
 
-## 💻 Projeto
-
-- [Acesse o projeto finalizado, online](https://willdjm.github.io/DesafioCoffeeDelivery/)
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
